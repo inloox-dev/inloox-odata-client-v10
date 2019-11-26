@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InLoox.ODataClient", "InLoox.OdataClient\InLoox.ODataClient.csproj", "{0952AF18-8237-4892-AECC-B08C699DBA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0952AF18-8237-4892-AECC-B08C699DBA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0952AF18-8237-4892-AECC-B08C699DBA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0952AF18-8237-4892-AECC-B08C699DBA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0952AF18-8237-4892-AECC-B08C699DBA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D8B37D-8487-44B0-9CC0-E93D46B6542C}
+	EndGlobalSection
+EndGlobal
