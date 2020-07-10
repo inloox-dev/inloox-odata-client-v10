@@ -3,18 +3,19 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>10.0.2</Version>
+    <Version>10.0.3</Version>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/inloox-dev/inloox-api-client</PackageProjectUrl>
     <PackageIconUrl>https://avatars0.githubusercontent.com/u/33091025?s=400&amp;v=4</PackageIconUrl>
-    <RepositoryUrl>https://github.com/inloox-dev/inloox-api-client</RepositoryUrl>
+    <RepositoryUrl>https://github.com/inloox-dev/inloox-odata-client</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>OData Client Library to use with IWA 10 or InLoox Now!</Description>
-    <Copyright>Copyright 2019</Copyright>
+    <Copyright>Copyright 2020</Copyright>
     <PackageTags>InLoox OData Project Management</PackageTags>
     <Company>InLoox GmbH</Company>
     <Product>InLoox now!</Product>
     <Authors>InLoox GmbH</Authors>
+    <AssemblyVersion>10.0.3.0</AssemblyVersion>
   </PropertyGroup>
 
  
