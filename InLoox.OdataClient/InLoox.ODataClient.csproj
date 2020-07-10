@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>10.0.3</Version>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/inloox-dev/inloox-api-client</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/inloox-dev/inloox-odata-client</PackageProjectUrl>
     <PackageIconUrl>https://avatars0.githubusercontent.com/u/33091025?s=400&amp;v=4</PackageIconUrl>
     <RepositoryUrl>https://github.com/inloox-dev/inloox-odata-client</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
