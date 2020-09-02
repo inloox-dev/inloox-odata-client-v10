@@ -65,11 +65,11 @@ namespace InLoox.ODataClient
         /// <returns></returns>
         public static Container GetInLooxContext(Uri odataEndPoint, string accessToken)
         {
-            var context = new Container(odataEndPoint);
+            var context = new Container(odataEndPoint, accessToken);
 
             context.SendingRequest2 += (sender, eventArgs) =>
             {
-                eventArgs.RequestMessage.SetHeader("Authorization", "bearer " + accessToken);
+                eventArgs.RequestMessage.SetHeader("Authorization", "bearer " + context.AccessToken);
             };
 
             context.ReceivingResponse += (sender, e) =>

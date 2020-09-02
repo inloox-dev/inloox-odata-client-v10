@@ -3,10 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>10.0.3</Version>
+    <Version>10.0.4</Version>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/inloox-dev/inloox-odata-client</PackageProjectUrl>
-    <PackageIconUrl>https://avatars0.githubusercontent.com/u/33091025?s=400&amp;v=4</PackageIconUrl>
+    <PackageIconUrl></PackageIconUrl>
     <RepositoryUrl>https://github.com/inloox-dev/inloox-odata-client</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>OData Client Library to use with IWA 10 or InLoox Now!</Description>
@@ -15,13 +15,28 @@
     <Company>InLoox GmbH</Company>
     <Product>InLoox now!</Product>
     <Authors>InLoox GmbH</Authors>
-    <AssemblyVersion>10.0.3.0</AssemblyVersion>
+    <AssemblyVersion>10.0.4.0</AssemblyVersion>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
  
   <ItemGroup>
-    <PackageReference Include="Microsoft.OData.Client" Version="7.6.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Microsoft.OData.Client" Version="7.7.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Text.Json" Version="4.7.2" />
+  </ItemGroup>
+
+ 
+  <ItemGroup>
+    <None Include="Assets\icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="Assets\License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

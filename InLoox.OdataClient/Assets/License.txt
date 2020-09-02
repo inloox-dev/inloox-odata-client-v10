@@ -1,0 +1,272 @@
+﻿If your contract partner is InLoox GmbH based in Munich, Germany, the End-User License Agreement of InLoox GmbH will apply.
+
+If your contract partner is InLoox, Inc. based in San Francisco, USA, the End-User License Agreement of InLoox, Inc. will apply.
+
+Contracting partner
+InLoox GmbH
+InLoox, Inc.
+InLoox GmbH
+End-User License Agreement (EULA) of InLoox GmbH
+By using this Software Product (including installation and copy) you declare that you agree with this Agreement as a natural person and legal entity. If you do not agree with this EULA you are not entitled use the Software.
+
+§ 1 Validity of the Terms of Agreement
+
+(1) This End User License Agreement (EULA) is concluded between you – hereinafter also referred to as Customer – and InLoox GmbH – hereinafter also referred to as InLoox. The licensing / purchase of Software and obligations precedent to the Agreement shall exclusively be subject to the Terms of Agreement unless otherwise agreed. We exclusively refer to the regulations of the General Terms of Business of InLoox which are integrated into this Agreement and form an essential part of it. The Customer confirms that he has taken note of the General Terms of Business of InLoox. The regulations of the General Terms of Business are extended and/or supplemented by the objective License Terms of InLoox with regard to the use of Software and other software-specific regulations and the corresponding rights and obligations. In case the General Terms of Business of InLoox deviate from this Agreement or if they are inconsistent with it, these License Terms shall prevail.
+
+(2) InLoox licenses/sells the enclosed Software to the Licensee (Customer) exclusively on the basis of the License Terms hereinafter. In case you do not agree with these Terms, do not open the package or seal of the Software, refrain from installing the Software, click on the “No” button of the installation process and uninstall the Software when the corresponding inquiry occurs during the installation and return the properly purchased Software together with packaging, license key and receipt voucher to the Software vendor within 30 days of the purchase of the Software. Subsequently, you will receive full reimbursement of the purchase price you paid.
+
+§ 2 Subject Matter of the Agreement
+
+(1) Subject matter of this Agreement is the granting of the rights of use in accordance with §3 depending on the type of license purchased in each case and its extent of functions. By purchasing this Software you become the owner of the Software storage medium (e.g. a CD-ROM), but not of the Software itself. The Software is licensed, not sold. The Software shall always remain the intellectual property of InLoox and/or the respective right owner. As a purchaser of the Software you shall only be entitled to use the proprietary object, i.e. to use the Software as agreed upon. InLoox grants this right of use in the form of a license.
+
+(2) The Customer has checked whether the Software specification meets his desires and requirements before concluding the Agreement. He knows the essential functional qualities and conditions of the Software.
+
+(3) Product descriptions and presentations in test programs are service descriptions but are not warranties. Warranties require a written statement from InLoox company management.
+
+(4) The Customer is not entitled to receive a license for the source program.
+
+(5) InLoox renders all deliveries and services in accordance with the state-of-the-art.
+
+(6) InLoox reserves all rights which are not explicitly mentioned in this EULA.
+
+(7) If the Software is marked “Not for resale” (or “Nicht zum Weiterverkauf bestimmt”) in any way it may neither be resold nor transferred.
+
+(8) The Software may then be exclusively installed on a network server if the License purchased by the Customer is explicitly designated as “server license”. A server license entitles the Customer to operate one database (one set of logically related data) on one database management system.
+
+(9) In the event that the Software is used in a network the Customer must ensure that there is a License for each data processing unit and/or each named user having access to the server and the possibility to use the Software. The Customer must prevent that two or more individuals gain access to the Software sharing one named user License.
+
+(10) If the Software is marked “Corporate License” (or “Unternehmenslizenz”), the Customers is entitled to deploy or provide the Software to an unlimited amount of users within Customer’s organization. The restrictions of § 2 (8) and § 3 shall remain in effect.
+
+(11) The Software is licensed as a whole. You may not separate its components and/or use it for distinct application on more than one computer other than described in the Software user documentation.
+
+(12) Military usage of the Software is prohibited.
+
+§ 3 The Customer’s Rights to the Software
+
+(1) The Software, all additional programs, the symbols used, InLoox logo, written documents as well as documentation are legally protected. The copyright, patent rights, trademark rights and all other rights in goods and services as well as industrial property rights to the Software and other above-mentioned objects which InLoox makes available or hands over to the Customer as part of the process to set up and implement the Agreement are the exclusive property of InLoox in the relationship of the Parties. Should third parties be entitled to any rights, InLoox shall have the corresponding rights of use.
+
+(2) The Customer purchases the Software in order to use it for his own purposes on a permanent basis (non-exclusive license). The Customer is entitled to use the quantities of Software for which he purchased licenses. InLoox hereby grants the Customer the right to use the programs which are necessary for these purposes as well as the right to copy programs on the main memory and hard disks as well as the right to correct errors. The Customer is entitled to make backup copies of the programs necessary for safe operation. The backup copies must be marked as backup copies. Copyright notes must not be deleted, changed or suppressed. The Customer may exclusively use the Software for each license on a standalone computer, no matter if it is a workstation, notebook or PDA except in such cases where he purchases a network license. The use of the Software also implies loading the Software into the temporary memory of a computer or similar object or installing the Software on a permanent storage medium (e.g. hard disk, DVD, CD-ROM, or similar). However, the Parties may come to differently worded agreements in an individual Agreement issued in writing.
+
+(3) A user manual and any other documents possibly provided by InLoox may only be copied for the company’s internal purposes.
+
+(4) The Customer shall not be entitled to transfer the Software without the written consent of InLoox; this applies in particular in the event of sale. InLoox shall agree to the passing-on of the Software (in whole or in part) to a third party under the following conditions:
+
+– The Customer hands over the original data storage media (if there is one), this EULA and the General Terms of Business of InLoox to the third party, deletes all other copies in particular on data storage media, in read-only memories or main memories, he definitely stops using the Software and submits a written confirmation of the fulfilment of his duties to InLoox.
+
+– The third party declares to InLoox in writing that it has received the aforementioned components and acknowledges them as binding in the legal relationship with InLoox, noting the General Terms of Business and this EULA.
+
+– There are no important opposing reasons.
+
+(5) All other acts of utilization, in particular leasing, industrial sale (unless explicitly stated otherwise by written reseller agreement/authorized dealer agreement), lease and distribution of any tangible or intangible property are prohibited without the prior written consent of InLoox. InLoox notes, that customers who violate copyright laws, are liable for all damages that occur as a result of these copyright law violations.
+
+(6) Any subject matter of the Agreement, documents, proposals, test programs, etc. of InLoox to which the Customer gains access after conclusion of the Agreement shall be considered intellectual property and must be treated confidentially as a business and company secret of InLoox in accordance with § 10.
+
+§ 4 Contractual Obligation and Termination of the Agreement
+
+In the event of termination due to infringement of this EULA you are obliged to return or destroy all original versions and copies of the Software and all other components and to notify InLoox of the destruction in writing.
+
+§ 5 Obligations of the Customer
+
+(1) In the event that you are a business owner you undertake to inspect all delivery items of InLoox immediately upon receipt of the goods in accordance with the regulations of commercial law (§ 377 of the German Commercial Code) and to make complaints in respect of defects with an exact description of the defect, submitted in writing. Each Customer is obliged to test all modules with regard to usability in the concrete situation before starting any operative use. This also applies to programs the Customer receives in the context of supplementary performance or a possible maintenance agreement.
+
+(2) The Customer shall take adequate precautions to counter situations where the program does not operate properly in whole or in part (e.g. by data backup, error diagnosis, regular check on the results). The Customer shall be responsible for ensuring the operation of the working environment of the program. He shall be obliged to carry out the necessary adjustments to his firewall, virus scanners or similar data protection mechanisms in his network as well as his server. InLoox shall not bear the risk of incompatibility of the Software with the software or hardware used by the Customer.
+
+(3) You shall not be entitled to use or modify the logo and/or trademarks of InLoox unless the company management of InLoox has given its prior agreement to the use or modification of the logo in writing.
+
+(4) Subject to the provisions of § 69 e German Copyright Act (UrhG) you may not reverse engineer, decompile or disassemble the Software.
+
+(5) You undertake to indemnify and defend InLoox from all claims of third parties, including reasonable lawyers’ fees arising or resulting from any use of this Software against the agreement.
+
+§ 6 Warranty
+
+(1) Delivered Software possesses the agreed-upon characteristics, is suitable for the applications assumed by the contract and which are otherwise standard, and has usual quality of software of this type. Not every flaw which is connected with the Software is a defect which implies warranty rights. An impairment in the Software’s functioning which results from hardware defects, environmental conditions, improper operation and the like, is not a defect. An insignificant deterioration in quality will not be taken into account. InLoox guarantees that no rights of third parties are violated through the use of the Software by the Customer in accordance with the provisions of the contract.
+
+(2) Customers who are consumers within the meaning of § 13 German Civil Code (BGB) have in respect to defects of the purchased good the rights set out in the German Civil Code (BGB). In case that a consumer is entitled to claim damages hereafter, § 7 applies accordingly.
+
+(3) In all other cases of liability for defects the following terms apply:
+
+(a) InLoox may first attempt to remedy any material defects. InLoox may choose to remedy the defect by eliminating it, i.e. also by demonstrating possibilities by means of which the effects of the defect can be avoided, or through delivery of a program which does not contain the defect. An equivalent new program version or the equivalent previous program version which had not contained the faults is to be accepted by the Customer, when this is reasonable. In the case of defects in title, InLoox shall give the assurance that it will provide the Customer with legally unchallengeable option to use either the Software or equivalent software, at its option.
+
+(b) The Customer shall support InLoox in the analysis of faults and removal of defects by specifically describing problems which occur, providing InLoox with complete information and granting it the necessary time and opportunities to remove the defect. InLoox may also remove the defect on-site or at its place of business, at its discretion. The performance of InLoox may also take the form of remote maintenance. The Customer must ensure the necessary technical prerequisites at his own expense and, after due prior notification, provide InLoox with access to his computer equipment.
+
+(c) InLoox may levy additional charges, when the Software is modified, employed outside the environment provided for or incorrectly operated. It may demand compensation if no defect is found or if it is incorrectly/insufficiently informed of a fault. The burden of proof lies with the Customer in accordance with § 254 German Civil Code (BGB).
+
+(d) If InLoox ultimately refuses to remedy the defect, if it ultimately is unsuccessful or if this is unreasonable for the Customer, he may withdraw in writing from the contract or correspondingly curtail the payment and in accordance with § 7 demand damages or reimbursement of expenses.
+
+(e) Insofar as the above has not been otherwise agreed, further liability on the part of InLoox within the meaning of liability for defects is excluded. In particular, liability for defects does not apply if and to the extent that the Software is improperly used by the Customer or used in a defective or incompatible hardware or software environment. The same applies in the event that the Customer undertakes unauthorized modifications of the Software.
+
+(g) The statute of limitation for claims for defects is one year as of the statutory commencement of the limitation period.
+
+§ 7 Liability
+
+The following limitations of liability apply in case of claims for damages of the Customer arising from liability for defects or from any other reasons:
+
+(1) InLoox is liable for intent and gross negligence in accordance with the statutory provisions. The same applies to injury of life, body or health as well as to claims arising from warranties or from the German Product Liability Act (Produkthaftungsgesetz, ProdHaftG).
+
+(2) Moreover, InLoox is only liable for culpably infringing contractual obligations the fulfilment of which renders a correct execution of the contract possible, and the Customer can always trust on said material obligations being observed (cardinal obligation). This includes, in particular, the obligation to fulfil a performance free from defects. In this case InLoox’s liability is limited to the loss or damage foreseeable upon conclusion of the contract.
+
+(3) A further liability of InLoox is excluded.
+
+(4) Should the liability for damages on the part of InLoox be excluded or reduced, this shall also apply with regard to personal liability for compensation for damages on the part of its employees, representatives and persons employed in auxiliary tasks.
+
+(5) The right to contest the charge of contributory negligence remains open to InLoox. It is pointed out to the Customer that, within the framework of his obligation to exercise diligence, before using the Software for the first time, he must test whether the installation of the Software might lead to particular interference with pre-installed software, and that he must further ensure back-up of his data before the first installation as well as during the course of operations and, in the case of a suspected fault in the Software, that he implements all additional reasonable measures required for security.
+
+(6) The statute of limitation for claims of the client who is not a consumer is one year as of the statutory commencement of the limitation period.
+
+(7) The conditions of this paragraph apply mutatis mutandis to component manufacturers of the Software.
+
+§ 8 Software Updates and Upgrades
+
+At the sole discretion of InLoox, users may be provided with updates and upgrades to the Software. InLoox retains the right to provide upgrades for a fee. Upon installation of an upgrade, users shall not use, separate or transfer the previous version to a third party separately. Unless InLoox provides other terms and conditions with an update or upgrade, the terms and conditions of this EULA shall continue to apply. Users may refuse to accept an update or upgrade. However, upon release of an update or upgrade, InLoox may have no further obligation to support the previous version.
+
+§ 9 Customer Experience Improvement Program (CEIP)
+
+As part of the “Customer Experience Improvement Program” (CEIP), InLoox will gather anonymized usage statistics and error reports. Customer can turn off this feature at any time. More information can be found at www.inloox.com/ceip.
+
+§ 10 Start and End of the Customer’s Rights
+
+(1) The ownership of the supplied items and the rights in accordance with § 2 and § 3 shall not be transferred to the Customer until complete payment of the purchase price. Before that, he only has a preliminary right of use in accordance with the law of obligations, revocable in accordance with § 10 (2).
+
+(2) InLoox shall be entitled to revoke the rights in accordance with § 2 and § 3 for important reasons, in particular for the reasons specified in § 3 of the General Terms of Business of InLoox or to terminate the Agreement respectively. An important reason particularly exists if the Customer does not effect the due payment, if he continues to infringe the obligations under § 2 and § 3 of this Agreement in a substantial way, despite written reminders, or in the event that a petition of bankruptcy has been filed in respect of the Customer’s assets.
+
+(3) If the right of use in accordance with § 3 in conjunction with § 2 does not occur or if it should end, InLoox shall be entitled to demand from the Customer the return of the provided goods or demand a written assurance that they have been destroyed and that all copies have been destroyed, along with the written assurance that this has been effected.
+
+§ 11 Secrecy, Data Protection
+
+(1) The Contracting Parties undertake to treat all objects they receive from the other Contracting Party or objects they gain knowledge of (e.g. software, documents, information) which are legally protected, contain business or company secrets or are designated as confidential, confidentially - even beyond the expiration of the Agreement, unless these objects are publicly known without any infringement of the obligation of secrecy. The Contracting Parties shall store and save these objects in such a way that any unauthorized access by third parties is excluded.
+
+(2) The Customer permits access to the subjects of the Agreement only by his personnel or third parties requiring access in order to perform their assigned tasks. He shall inform these persons about the need for these objects to be kept confidential.
+
+(3) The Parties have agreed on a Data Processing Agreement, which builds the legal framework for all processing of personal data within the use of the Software provided.
+
+§ 12 Applicable law, legal venue
+
+This Agreement shall be governed by the laws of the Federal Republic of Germany under exclusion of the UN Convention on the International Sale of Goods (CISG) and international law (in particular German laws of conflict).
+
+As far as the customer is not a consumer in the sense of § 13 BGB, the place of jurisdiction for all disputes arising from this contract including its appendices is Munich. The same applies if the customer has no general place of jurisdiction in Germany or his place of residence or usual abode is not known at the time the action is filed.
+
+§ 13 Safeguarding Clause
+
+If any provision of this Agreement should be or become invalid, such invalidity shall not affect the validity of the other provisions of this Agreement even if essential provisions are concerned. The Parties agree to replace the invalid provision by a legally effective regulation which comes as closest to the contractually stipulated legal and economic intent of the invalid provision and ensures the operability of the Agreement in the sense of what both Parties had intended. The same shall apply in the event that the Parties have not discovered a gap in the provisions at the time the Agreement was concluded or if such a gap becomes known or occurs later. In that case, the Parties shall be obliged to generate a written supplement to the Agreement in the sense of the aforementioned.
+
+Date: 2018-04-24
+
+ 	 
+ 	 
+ 	 
+InLoox, Inc.
+End-User License Agreement of InLoox, Inc.
+YOU ARE ABOUT TO DOWNLOAD, INSTALL, COPY OR OTHERWISE USE THE SOFTWARE (“LICENSED SOFTWARE”). BY CHECKING THE BOX NEXT TO THE STATEMENT “I ACCEPT THE TERMS OF THE LICENSE AGREEMENT”, YOU AGREE TO BE BOUND BY THE FOLLOWING LICENSE (“AGREEMENT”) EVEN IF YOU HAVE A DIFFERENT WRITTEN LICENSE AGREEMENT WITH LICENSOR. BY CHECKING THE BOX NEXT TO THE STATEMENT “I ACCEPT THE TERMS OF THE LICENSE AGREEMENT”, YOU ALSO REPRESENT THAT YOU ARE AUTHORIZED TO ACCEPT THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, YOU ARE NOT ALLOWED TO DOWNLOAD, INSTALL, COPY OR OTHERWISE USE THE SOFTWARE.
+
+This End-User License Agreement (“Agreement”) is entered into by and between InLoox, a Delaware corporation (“InLoox, Inc.”), and you (“Licensee” or “You”). For purposes of this Agreement, InLoox, Inc. and Licensee may be referred to individually as a “Party” and collectively as the “Parties”.
+
+1. DEFINITIONS
+
+1.1 Licensed Software: “Licensed Software” means the computer software marketed under the trademark “InLoox”.
+
+1.2 Documentation: “Documentation” means any printed matter delivered to Licensee by InLoox, Inc. which comprises: (i) unpublished documents containing confidential information about the Licensed Software not generally available to the public; and (ii) published documents regarding the Licensed Software that contain InLoox, Inc.’s or its licensor’s copyrighted materials, including, without limitation, a user’s manual.
+
+2. LICENSE
+
+2.1 Grant: Subject to the terms and conditions hereof, InLoox, Inc. hereby grants to Licensee a limited, nonexclusive, nontransferable, perpetual license to:
+
+(a) install one (1) executable copy of the Licensed Software, delivered by InLoox, Inc., on a single computer, laptop, or PDA on the respective system’s hard drive or similar storage device and to use and execute said copy solely for Licensee’s own internal purposes. Licensee is authorized to use one (1) copy of the software per license acquired;
+
+(b) make one (1) backup copy of the Licensed Software, provided the backup copy is not installed or in use on any other computer.
+
+(c) install one (1) copy of the Licensed Software on a network server operating one (1) database on one (1) database management system provided that (a) Licensee acquired a license that is expressly labeled “Server License”, and (b) Licensee acquired one (1) license for each data processing unit or each user (named user) with access to the server and has the possibility to use the Licensed Software. Licensee must ensure that not more than one (1) individual may share network access as one named user. If Licensee acquired a license that is expressly labeled “Corporate License”, Licensee is entitled to deploy the Licensed Software to an unlimited amount of users within Licensee’s organization. 
+
+(d) make copies of the Documentation as may be reasonably required for the Licensee’s use of the Licensed Software, and to use the Documentation in connection with the operation and use of the Licensed Software. 
+
+2.2 Restrictions
+
+(a) Licensee will not use the Licensed Software or Documentation for any purpose not authorized in this Agreement. In no event shall Licensee, without prior written consent of Licensor: (i) distribute, transfer, translate, rent, lease, lend, assign, sell, commercially exploit or sublicense the Licensed Software or any portion thereof to any third party, (ii) alter, break or modify any access or copy protection system placed on the Licensed Software; (iii) modify or prepare derivative works of the Licensed Software; (iv) separate the components of the Licensed Software as the Licensed Software is licensed as one inseparable product; (v) reverse engineer, decrypt, decompile or disassemble, all or any part of the licensed Software or the Documentation or other material provided by InLoox, Inc. in connection with the Licensed Software.
+
+(b) Licensee does not have any rights with respect to the source code of the Licensed Software and there is no obligation to disclose the source code to the Licensee. Licensee may not use the Licensed Software for military purposes. Licensee will also not use the Licensed Software or Documentation for the benefit of any third party. Any use of the Licensed Software or Documentation by Licensee beyond the scope of this license will be a material breach of this Agreement.
+
+3. FEES AND PAYMENT
+
+Any terms and conditions related to fees, expenses and payment for the Licensed Software shall be set forth on one or more purchase orders between you and Licensor, each of which are incorporated herein as if set forth in full. In the event of any conflict or ambiguity between a purchase order and the terms of this License Agreement, the terms of this License Agreement shall control and govern in all respects. In the event of any conflict or ambiguity between this License Agreement and a separate written license agreement between you and Licensor, the terms of this License Agreement shall control and govern in all respects.
+
+4. TITLE
+
+Licensee shall own and hold title to the physical media on which the Licensed Software is delivered to Licensee. Licensee acknowledges that this Agreement is a license and not a sale. Except for the ownership of said physical media, Licensee acknowledges that InLoox, Inc. and its licensor are and shall remain the sole and exclusive owners of all rights, title, and interests in and to the Licensed Software and Documentation, subject only to the limited rights of use expressly granted to Licensee herein by InLoox, Inc. Nothing in this Agreement shall be construed as transferring to Licensee any right, title, or interest in the Licensed Software or Documentation, or as conferring any license or other right, by implication, estoppel, or otherwise, under any patents, patent applications, trade secrets, trademarks or copyrights, which InLoox, Inc. or its licensor may now or hereafter own, relating to the Licensed Software.
+
+5. MODIFICATIONS, UPDATES, AND UPGRADES
+
+(a) InLoox, Inc. reserves the right to, at any time, modify, alter, or make changes to the Licensed Software, provided that the modified, altered or changed Licensed Software conforms to its specifications and performs substantially the same functionalities as the original Licensed Software.
+
+(b) InLoox Inc. may decide, in its sole discretion, to publish updates or upgrades to the Licensed Software which Licensee can acquire. If Licensee decides to purchase a license to an update or upgrade, Licensee is no longer authorized to use the old version. Licensee is also not authorized to separate the old version and to transfer it to a third party. The terms of this Agreement are applicable to updates and upgrades unless the update or upgrade itself is accompanied by separate terms in which case such terms shall take precedence. Licensee may reject any update or upgrade that InLoox Inc. may publish. If an update or upgrade is published, however, InLoox Inc. is no longer obligated to offer support for the old version (subject to a separate service or support agreement).
+
+6. CONFIDENTIALITY
+
+Licensee acknowledges and agrees that: (a) the Licensed Software; (b) the Documentation; (c) all code, techniques, algorithms and processes contained in the Licensed Software; and (d) any and all modifications to or extractions from the Licensed Software or the Documentation, contain confidential and proprietary information and trade secrets of InLoox, Inc. and/or its licensor. Accordingly, Licensee hereby agrees that it will safeguard such information and trade secrets to the fullest extent possible from and against unauthorized use, disclosure or publication.
+
+7. TERM; TERMINATION; RETURN OF MATERIALS
+
+7.1 Term: The term of this Agreement shall commence on the Effective Date hereof and continue in perpetuity unless it is terminated in accordance with the terms of Section 7.2 below.
+
+7.2 Termination: This Agreement may be terminated by InLoox, Inc. if any of the following circumstances arises:
+
+(a) If Licensee breaches the terms of Section 2 or Section 4 hereof, InLoox, Inc. may terminate this Agreement immediately by providing written notice of termination to Licensee.
+
+(b) Except as otherwise provided in part (a) above, in the event that Licensee fails to comply with any material provision of this Agreement or the obligation to pay the licensing fee and such failure is not remedied within fifteen (15) days of Licensee’s receipt of written notice of such failure from InLoox, Inc., then InLoox, Inc. may terminate this Agreement immediately by providing written notice of termination to Licensee. 
+
+(c) Termination of this Agreement as set forth above shall be without prejudice to any other remedies available to InLoox, Inc. in law or equity.
+
+(d) Sections 4, 6, 7, 8, 11.4, 11.7, and 11.8 shall survive the termination for any reason of this Agreement, for so long as necessary to accomplish their purpose.
+
+7.3 Return of Materials: Upon termination for any reason of this Agreement, all rights granted to Licensee shall terminate and revert to InLoox, Inc. Promptly upon termination of this Agreement for any reason, Licensee shall return or destroy, as requested by InLoox, Inc., all copies of the Licensed Software and Documentation in Licensee’s possession, and any and all other materials pertaining to the Licensed Software (including all electronic copies thereof). Licensee agrees to provide to InLoox, Inc. written certification of its compliance with the foregoing requirement, upon InLoox, Inc.’s request.
+
+8. LIMITED WARRANTY, LIMITATION OF LIABILITY, INDEMNIFICATION
+
+8.1 Limited Warranty: Licensor warrants that the Licensed Software will conform to its specifications and will be free from error that materially affects its performance for a period of ninety (90) days from the day it is first provided to Licensee. The foregoing warranty shall not apply in the event of (a) nonconformities, defects or errors that result from Licensee’s failure to use, install, operate or maintain the Licensed Software in the manner specified by Licensor; (b) modifications made by the Licensee; (c) defects that are cause by Licensee’s tampering with any protection placed by Licensor on the Software. The foregoing warranty shall apply only to the versions of the Licensed Software that are delivered to Licensee by InLoox, Inc. hereunder. InLoox, Inc. sole obligation (and Licensee’s sole remedy) with respect to any breach of warranty will be to repair or, at InLoox, Inc.’s option, to replace the defective Licensed Software, including but not limited to by implementing a modification or a technically feasible change in the operating procedure of the Licensed Software whereby the effects of any errors on the normal operation of the Software or other non-conformities are reasonably minimized (“Work Around”).
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE LICENSED SOFTWARE AND ANY OTHER SERVICES ARE PROVIDED ON AN “AS IS” BASIS, AND INLOOX, INC. DISCLAIMS ANY AND ALL PROMISES, REPRESENTATIONS, AND WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE LICENSED SOFTWARE AND THE DOCUMENTATION, INCLUDING ITS CONDITION, ITS CONFORMITY TO ANY REPRESENTATION OR DESCRIPTION, THE EXISTENCE OF ANY LATENT OR PATENT DEFECTS, ITS MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, AND ITS NONINFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, OR ANY WARRANTIES ARISING FROM COURSE OF DEALING, USAGE OF TRADE OR FROM STATUTE.
+
+Licensee warrants that (a) Licensee has the power and authority to agree and enter into this License Agreement and to perform all obligations under this Agreement, (b) assenting to this Agreement will not lead to a conflict with, or breach or violation of, applicable law, rule, or regulation, or any other agreement Licensee is bound to, (c) Licensee understands that this Agreement establishes legally binding obligations between InLoox, Inc. and Licensee, enforceable in accordance with its terms.
+
+8.2 Limitation of Liability: The cumulative liability of InLoox, Inc. to Licensee for all claims asserted against it by Licensee, relating to the Licensed Software, the Documentation and/or this Agreement, including any cause of action in contract, tort, or strict liability, shall not exceed the total amount of the license fees actually paid to and received by InLoox, Inc. hereunder. The foregoing limitation of liability is intended to apply without regard to whether other provisions of this Agreement have been breached or have proven ineffective. Moreover, InLoox, Inc. shall have no liability to Licensee for loss of data or documentation, it being understood that Licensee is solely responsible for reasonable backup precautions. IN NO EVENT SHALL INLOOX INC. BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING BUT NOT LIMITED TO SUCH DAMAGES ARISING FROM BREACH OF CONTRACT OR WARRANTY OR FROM TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY)), OR FOR INTERRUPTED COMMUNICATIONS, LOSS OF GOODWILL, LOST DATA OR LOST PROFITS, ARISING OUT OF, RELATING TO OR IN CONNECTION WITH THIS LICENSE AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. INLOOX INC. WILL NOT BE LIABLE FOR CLAIMS OR DEMANDS BROUGHT AGAINST LICENSEE BY THIRD PARTIES, EVEN IF INLOOX INC. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH CLAIMS OR DEMANDS. 
+
+IN NO EVENT MAY ANY ACTION BE BROUGHT AGAINST INLOOX, INC. ARISING OUT OF THIS AGREEMENT MORE THAN ONE YEAR AFTER THE CLAIM OR CAUSE OF ACTION ARISES, DETERMINED WITHOUT REGARD TO WHEN LICENSEE LEARNS OF THE ALLEGED DEFECT, INJURY, OR LOSS. LICENSORS’ TOTAL LIABILITY FOR DAMAGES HEREUNDER SHALL NOT IN ANY EVENT EXCEED THE ANNUAL LICENSE FEE PAID. THE PROVISIONS OF THIS PARAGRAPH WILL SURVIVE ANY TERMINATION OF THIS LICENSE.
+
+8.3 Indemnification: Licensee shall, at its own expense, defend, indemnify, and hold harmless InLoox, Inc., its directors, officers, employees, agents, assigns and successors in interest from and against any and all third party claims, liability, damages, losses, demands, actions, causes of action, costs, including reasonable attorney’s fees and expenses, or any of them, resulting from or arising out of Licensee’s breach of any of its obligations under Sections 2 or 4. 
+
+9. SECURITY
+
+Licensee must arrange precautionary measures (such as data back-up, error diagnosis and regular diagnostics) for the event that the Licensed Software does not work properly. It is the duty of the Licensee to ensure that the Licensed Software is used and operated in a suitable environment. In particular, Licensee must ensure appropriate settings of firewalls, virus protection programs, other data safety features, networks and servers. InLoox, Inc. is not liable if Licensee’s system does not meet the necessary compatibility requirements with respect to hard- and software.
+
+10. CUSTOMER EXPERIENCE IMPROVEMENT PROGRAM (CEIP)
+
+The Licensed Software will automatically send anonymized usage statistics and error reports to Licensor. Licensee can turn off this feature at any time. More information is located at: www.inloox.com/ceip 
+
+11. GENERAL TERMS
+
+11.1 No Assignment or Sublicensing: Licensee may not, and shall not, assign, sublicense, or otherwise transfer this Agreement or the license granted hereunder to any other person, entity or agency of the United States Government without the prior written consent of InLoox, Inc., which consent may be withheld by InLoox, Inc. for any reason which it, in its sole discretion, deems to be in its best interest. InLoox, Inc. may condition its consent, if it elects to consent, upon such transferee’s or sublicensee’s written agreement to be bound by all of the terms and conditions of this Agreement. Any assignment, sublicense, or transfer in violation of the foregoing shall be null and void ab initio, and shall constitute a material breach of this Agreement. 
+
+11.2 Complete Understanding; General Terms and Conditions of Sale: This Agreement constitutes the full and complete understanding and agreement of the Parties hereto with respect to the subject matter hereof and supersedes all prior communications, understandings and agreements between the Parties relating hereto. Licensee takes note and acknowledges InLoox’ General Terms and Conditions of Sale. InLoox’ General Terms and Conditions of Sale are incorporated into this Agreement by this reference and become an integral part hereof. This Agreement supplements InLoox’ General Terms and Conditions of Sale with respect to use of the Licensed Software and the rights and obligations arising from such use. In case of any conflicts between InLoox’ General Terms and Conditions of Sale and this Agreement, this Agreement shall prevail and shall govern the relationship between the Parties.
+
+11.3 Modification and Waiver: Any waiver, modification or amendment of any provision of this Agreement shall be effective only if in writing and signed by the parties hereto. No waiver by either party hereto of any provision of this Agreement shall operate or be construed as a waiver of any other provision, whether or not similar, nor shall any waiver constitute a continuing waiver. No waiver shall be binding unless executed in writing by the Party making the waiver.
+
+11.4 Severability: If any provision of this Agreement shall be found by any court or administrative body of competent jurisdiction to violate any statute or regulation or otherwise be invalid or unenforceable, the invalidity or unenforceability of such provision shall not affect the other provisions of this Agreement, and all provisions not affected by such invalidity or such unenforceability shall remain in full force and effect. The parties hereby agree to substitute for any invalid or unenforceable provision a valid and enforceable provision that achieves to the greatest extent possible the economic, legal and commercial objectives of the invalid or unenforceable provision.
+
+11.5 Force Majeure: Neither party will be deemed in default of this Agreement to the extend that performance of such party’s obligations (other than payment) or attempts to cure any breach are delayed or prevented by reason of any act of God, fire, natural disaster, accident, act of government, shortages of materials or supplies or any other cause beyond the control of such party, provided that such party gives the other party prompt written notice thereof. 
+
+11.6 Notices: Any notices provided for hereunder shall be given by hand-delivery or first class certified mail, return receipt requested, postage prepaid, or by overnight courier, or by electronic mail. A notice given by registered or certified mail shall be deemed effective five (5) days after the date of mailing. A notice given by hand-delivery, overnight courier or electronic mail shall be deemed effective upon delivery to Licensee. Until notice of change of address has been given in the manner provided in this paragraph, notices will be sent to the notice address at the end of this Agreement.
+
+11.7 Governing Law and Venue: Governing Law and Venue. This Agreement will be governed by and construed in accordance with the laws of the State of California (excluding its conflicts of law rules). The Parties agree that the Convention on Contracts for the International Sale of Goods shall not apply.
+
+Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in San Francisco, California before one arbitrator(s). The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures and in accordance with the Expedited Procedures in those Rules. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction. Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in San Francisco, California before one arbitrator(s). The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures and in accordance with the Expedited Procedures in those Rules. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+
+11.8 Injunctive Relief: Injunctive Relief. It is expressly agreed that your breach of this Agreement will cause irreparable harm to Licensor and that a remedy at law would be inadequate. Therefore, in addition to any and all remedies available at law, Licensor will be entitled to an injunction or award of specific performance or other equitable remedies in all legal proceedings in the event of any threatened or actual violation by you of any or all of the provisions of this Agreement.
+
+11.9 Successors: All of the terms, provisions and conditions of this Agreement shall be binding upon and inure to the benefit of the Parties hereto and their representatives, heirs, successors, trustees, transferees, lawful assigns (in accordance with this Agreement) and legal representatives.
+
+Notice Address:
+
+InLoox, Inc.
+101 Montgomery Street, Suite 1900
+San Francisco, CA 94104
+USA
+
+Date: 2016-05-17
