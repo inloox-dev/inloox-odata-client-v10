@@ -1,16 +1,18 @@
-﻿using Default;
-using InLoox.ODataClient.Data.BusinessObjects;
-using IQmedialab.InLoox.Data.Api.Model.OData;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Default;
+using InLoox.ODataClient.Data.BusinessObjects;
+using InLoox.ODataClient.Extensions;
+using IQmedialab.InLoox.Data.Api.Model.OData;
+using Newtonsoft.Json;
 
-namespace InLoox.ODataClient.Extensions.Service
+namespace InLoox.ODataClient.Services
 {
-    public class DocumentService
+    public class DocumentService : IDocumentService
     {
         private readonly Container _ctx;
 
@@ -19,7 +21,7 @@ namespace InLoox.ODataClient.Extensions.Service
             _ctx = ctx;
         }
 
-        class Folder
+        private class SerializeableFolder
         {
             public string FolderName { get; set; }
             public Guid? ProjectId { get; set; }
@@ -28,7 +30,7 @@ namespace InLoox.ODataClient.Extensions.Service
 
         public Task<DocumentFolderView> CreateFolder(string name, Guid? projectId, Guid? parentFolder = null)
         {
-            var folder = new Folder
+            var folder = new SerializeableFolder
             {
                 ProjectId = projectId,
                 FolderName = name,
@@ -76,7 +78,7 @@ namespace InLoox.ODataClient.Extensions.Service
             return query.ExecuteAsync();
         }
 
-        public Task<HttpResponseMessage> UploadDocument(string fileName, Stream file, Guid? projectId = null, Guid? folderId = null)
+        public async Task<Guid?> UploadDocument(string fileName, Stream file, Guid? projectId = null, Guid? folderId = null)
         {
             var url = new Uri(_ctx.BaseUri, "/file/uploadnewdocument");
             var client = _ctx.GetHttpClient();
@@ -88,7 +90,22 @@ namespace InLoox.ODataClient.Extensions.Service
                 { new StreamContent(file), fileName, fileName },
             };
 
-            return client.PostAsync(url, requestContent);
+            var resp = await client.PostAsync(url, requestContent);
+            if (!resp.IsSuccessStatusCode)
+                return null;
+            var body = await resp.Content.ReadAsStringAsync();
+            var guids = JsonConvert.DeserializeObject<Guid[]>(body);
+            return guids.Any() ? (Guid?)guids.First() : null;
+        }
+
+        public Task<IEnumerable<DocumentEntry>> GetLatestChanges(int skip, int take)
+        {
+            var query = _ctx.documententry.OrderByDescending(k => k.ChangedDate)
+                .Skip(skip)
+                .Take(take)
+                .ToDataServiceQuery();
+
+            return query.ExecuteAsync();
         }
 
         public Task<HttpResponseMessage> DownloadDocument(Guid documentId)

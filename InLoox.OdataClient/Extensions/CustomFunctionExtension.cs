@@ -22,9 +22,11 @@ namespace InLoox.ODataClient.Extensions
         public static async Task<CustomExpandExtend> PatchCustomExpand(this DataServiceQuery<CustomExpandExtend> source, Guid customExpandId, string property, string value, HttpClient httpClient = null)
         {
             var byKey = source.ByKey(customExpandId);
-            var client = httpClient ?? (byKey.Context as Default.Container).GetHttpClient(false);
-            var request = new HttpRequestMessage(new HttpMethod("PATCH"), byKey.RequestUri);
-            request.Content = new StringContent($@"{{""{property}"":""{value}""}}", Encoding.UTF8, "application/json");
+            var client = httpClient ?? (byKey.Context as Default.Container).GetHttpClient();
+            var request = new HttpRequestMessage(new HttpMethod("PATCH"), byKey.RequestUri)
+            {
+                Content = new StringContent($@"{{""{property}"":""{value}""}}", Encoding.UTF8, "application/json")
+            };
             var response = await client.SendAsync(request);
             return JsonConvert.DeserializeObject<CustomExpandExtend>(await response.Content.ReadAsStringAsync());
         }

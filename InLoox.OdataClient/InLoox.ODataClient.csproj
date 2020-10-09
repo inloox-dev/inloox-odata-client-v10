@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>10.0.4</Version>
+    <Version>10.0.5</Version>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/inloox-dev/inloox-odata-client</PackageProjectUrl>
     <PackageIconUrl></PackageIconUrl>
@@ -37,6 +37,11 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
+  </ItemGroup>
+
+ 
+  <ItemGroup>
+    <Folder Include="Services\ServiceModels\" />
   </ItemGroup>
 
 </Project>

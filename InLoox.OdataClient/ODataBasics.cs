@@ -14,8 +14,7 @@ namespace InLoox.ODataClient
     {
         public class TokenResponse
         {
-            [JsonProperty(PropertyName = "error")]
-            public string Error { get; private set; }
+            [JsonProperty(PropertyName = "error")] public string Error { get; private set; }
 
             [JsonProperty(PropertyName = "error_description")]
             public string ErrorDescription { get; private set; }
@@ -76,20 +75,25 @@ namespace InLoox.ODataClient
             {
                 // setup location header for odata 4
                 var header = e.ResponseMessage.Headers as Dictionary<string, string>;
+                if (header == null)
+                    throw new InvalidCastException(
+                        $"cant cast {nameof(e.ResponseMessage.Headers)} as Dictionary<string,string>");
                 header.Add("Location", odataEndPoint.ToString());
             };
 
             return context;
         }
 
-        public static async Task<TokenResponse> GetToken(Uri endPoint, string username, string password, Guid? accountId = null)
+        public static async Task<TokenResponse> GetToken(Uri endPoint, string username, string password,
+            Guid? accountId = null)
         {
             var tokenUrl = new Uri(endPoint, "oauth2/token");
 
-            var values = new Dictionary<string, string>{
-                { "username", username },
-                { "password", password },
-                {"grant_type","password" },
+            var values = new Dictionary<string, string>
+            {
+                {"username", username},
+                {"password", password},
+                {"grant_type", "password"},
             };
 
             if (accountId != null)
