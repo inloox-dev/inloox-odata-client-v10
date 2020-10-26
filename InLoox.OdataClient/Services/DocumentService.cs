@@ -1,14 +1,14 @@
-﻿using System;
+﻿using Default;
+using InLoox.ODataClient.Data.BusinessObjects;
+using InLoox.ODataClient.Extensions;
+using IQmedialab.InLoox.Data.Api.Model.OData;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Default;
-using InLoox.ODataClient.Data.BusinessObjects;
-using InLoox.ODataClient.Extensions;
-using IQmedialab.InLoox.Data.Api.Model.OData;
-using Newtonsoft.Json;
 
 namespace InLoox.ODataClient.Services
 {
@@ -70,6 +70,14 @@ namespace InLoox.ODataClient.Services
             return query.ExecuteAsync();
         }
 
+        public Task<IEnumerable<DocumentView>> GetFiles(Guid? projectId)
+        {
+            var query = _ctx.documentview.Where(k => k.ProjectId == projectId)
+                .ToDataServiceQuery();
+
+            return query.ExecuteAsync();
+        }
+
         public Task<IEnumerable<DocumentEntry>> GetDocumentEntries(Guid? projectId)
         {
             var query = _ctx.documententry.Where(k => k.ProjectId == projectId)
@@ -106,6 +114,11 @@ namespace InLoox.ODataClient.Services
                 .ToDataServiceQuery();
 
             return query.ExecuteAsync();
+        }
+
+        public async Task<bool> MoveDocument(Guid documentId, Guid targetDocumentFolderId)
+        {
+            return await _ctx.documentview.movedocumententry(documentId, targetDocumentFolderId).GetValueAsync();
         }
 
         public Task<HttpResponseMessage> DownloadDocument(Guid documentId)
