@@ -15,7 +15,9 @@ namespace InLoox.ODataClient.Services
         Task DeleteFolder(Guid folderId);
         Task<HttpResponseMessage> DownloadDocument(Guid documentId);
         Task<IEnumerable<DocumentEntry>> GetDocumentEntries(Guid? projectId);
+        Task<DocumentView> GetDocumentFromCollection(Guid documentId);
         Task<IEnumerable<DocumentView>> GetFiles(Guid? projectId);
+        Task<DocumentFolderView> GetFolderFromCollection(Guid folderId);
         Task<IEnumerable<DocumentFolderView>> GetFolders(Guid? projectId);
         Task<IEnumerable<DocumentEntry>> GetLatestChanges(int skip, int take);
         Task<Guid?> UploadDocument(string fileName, Stream file, Guid? projectId = null, Guid? folderId = null);
