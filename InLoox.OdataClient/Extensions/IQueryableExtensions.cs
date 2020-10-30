@@ -8,6 +8,11 @@ namespace InLoox.ODataClient.Extensions
 {
     public static class IQueryableExtensions
     {
+        public static Task<DataServiceCollection<T>> ToDataServiceCollection<T>(this IQueryable<T> query)
+        {
+            return ODataBasics.GetDSCollection(query);
+        }
+
         public static DataServiceQuery<T> ToDataServiceQuery<T>(this IQueryable<T> query)
         {
             var dsQuery = query as DataServiceQuery<T>;

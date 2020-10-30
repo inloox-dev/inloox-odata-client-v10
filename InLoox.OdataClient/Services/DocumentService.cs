@@ -89,9 +89,6 @@ namespace InLoox.ODataClient.Services
 
         public async Task<Guid?> UploadDocument(string fileName, Stream file, Guid? projectId = null, Guid? folderId = null)
         {
-            var url = new Uri(_ctx.BaseUri, "/file/uploadnewdocument");
-            var client = _ctx.GetHttpClient();
-
             using var requestContent = new MultipartFormDataContent
             {
                 { new StringContent(projectId.ToString()), "ProjectId" },
@@ -99,12 +96,32 @@ namespace InLoox.ODataClient.Services
                 { new StreamContent(file), fileName, fileName },
             };
 
+            var (success, guid) = await UploadOrReplace(requestContent);
+            return success ? guid : null;
+        }
+
+        public async Task<bool> ReplaceDocument(Guid documentId, Stream file)
+        {
+            using var requestContent = new MultipartFormDataContent
+            {
+                { new StringContent(documentId.ToString()), "DocumentId" },
+                { new StreamContent(file), "file", "file" },
+            };
+            var (success, _) = await UploadOrReplace(requestContent);
+            return success;
+        }
+
+        private async Task<(bool, Guid?)> UploadOrReplace(MultipartFormDataContent requestContent)
+        {
+            var url = new Uri(_ctx.BaseUri, "/file/uploadnewdocument");
+            var client = _ctx.GetHttpClient();
+
             var resp = await client.PostAsync(url, requestContent);
             if (!resp.IsSuccessStatusCode)
-                return null;
+                return (false, null);
             var body = await resp.Content.ReadAsStringAsync();
             var guids = JsonConvert.DeserializeObject<Guid[]>(body);
-            return guids.Any() ? (Guid?)guids.First() : null;
+            return (true, guids?.FirstOrDefault());
         }
 
         public Task<IEnumerable<DocumentEntry>> GetLatestChanges(int skip, int take)

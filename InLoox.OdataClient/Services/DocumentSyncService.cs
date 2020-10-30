@@ -1,6 +1,8 @@
 ﻿using Default;
 using InLoox.ODataClient.Extensions;
+using InLoox.ODataClient.Services.Enums;
 using IQmedialab.InLoox.Data.Api.Model.OData;
+using Microsoft.OData.Client;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,6 +35,26 @@ namespace InLoox.ODataClient.Services
                 .ToDataServiceQuery();
 
             return query.ExecuteAsync();
+        }
+
+        public Task<DataServiceCollection<DocumentSync>> GetChangesSince(DateTimeOffset sinceDate,
+            DocumentSyncChangeType changeType = DocumentSyncChangeType.All)
+        {
+            var query = _ctx.documentsync
+                    .OrderByDescending(k => k.UpdatedAt)
+                    .Where(k => k.UpdatedAt > sinceDate);
+
+            switch (changeType)
+            {
+                case DocumentSyncChangeType.File:
+                    query = query.Where(k => !k.IsFolder);
+                    break;
+                case DocumentSyncChangeType.Folders:
+                    query = query.Where(k => k.IsFolder);
+                    break;
+            }
+
+            return ODataBasics.GetDSCollection(query);
         }
     }
 }
